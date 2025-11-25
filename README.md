@@ -10,3 +10,10 @@ pensize(), left(), right(), forward(), circle() and done().
 
 <img width="1917" height="1083" alt="image" src="https://github.com/user-attachments/assets/9756546a-a0bb-47e0-89fa-f08dace1da68" />
 
+<img width="1918" height="1128" alt="image" src="https://github.com/user-attachments/assets/4e3e71b2-e881-40f2-a27a-96c5e865a9a5" />
+
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/6b24f38d-3760-45ab-898d-8ae7cb9fb965" />
+
+
+
+
